@@ -1,0 +1,9 @@
+git init
+git status
+git add *
+git commit -m
+git remote git remote add origin https://github.com/vifidc/
+git push origin 
+git remote set-url origin 
+git remote -v
+
