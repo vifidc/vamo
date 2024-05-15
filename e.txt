@@ -7,3 +7,4 @@ git push origin
 git remote set-url origin 
 git remote -v
 
+s
